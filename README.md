@@ -1,2 +1,2 @@
-# Yield-Prediction-Project
+# Crop Yield-Prediction-Project
 Internship Project
